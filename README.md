@@ -17,18 +17,6 @@ Download a copy of the repo to your machine
 Right click on index.html once downloaded to your machine, and open the file. It will open your default web browser.
 
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 * JavaScript
 * CSS
