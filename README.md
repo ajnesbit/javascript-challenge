@@ -1,5 +1,9 @@
 # UFO Database 
 
+## Outline
+
+The goal of this project is to create a dashboard for UFO sightings with a filter to easily query the database.
+
 ## Getting Started
 
 These instructions will get you a copy of the dashboard up and running on your local machine.
